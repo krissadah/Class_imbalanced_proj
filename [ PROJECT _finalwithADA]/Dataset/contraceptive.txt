@@ -1,0 +1,4 @@
+[ Contraceptive ]
+1300 samples | 9 features
+Minority class = 456 samples (35.08%)
+Majority class = 844 samples (64.92%)

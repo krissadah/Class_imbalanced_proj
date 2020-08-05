@@ -1,0 +1,4 @@
+[ Banknote Authentication ]
+1270 samples | 4 features
+Minority class = 508 samples (40.00%)
+Majority class = 762 samples (60.00%)

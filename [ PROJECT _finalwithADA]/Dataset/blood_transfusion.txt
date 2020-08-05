@@ -1,0 +1,4 @@
+[ Blood Transfusion ]
+748 samples | 4 features
+Minority class = 178 samples (23.80%)
+Majority class = 570 samples (76.20%)

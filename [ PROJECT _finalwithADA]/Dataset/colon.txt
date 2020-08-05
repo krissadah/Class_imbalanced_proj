@@ -1,0 +1,4 @@
+[ Colon ]
+62 samples | 2000 features
+Minority class = 22 samples (35.48%)
+Majority class = 40 samples (64.52%)
